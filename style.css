@@ -1,0 +1,136 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 180%;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin-top:50px auto 0 auto;
+  color: #66BFBF;
+}
+.nap{
+  color: #66BFBF;
+  font-weight: normal;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  border-color: #EAF6F6;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  }
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.footer-link{
+  color: #05868a;
+}
+
+.top-container {
+  background-color: #CBF1F5;
+  border-width: 10px;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  padding: 100px 0;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.intro{
+  width: 45%;
+  margin: auto;
+}
+a{
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6
+}
+
+.end{
+  width:45%;
+  margin: 40px auto 60px ;
+
+}
+
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #2980b9);
+  background-image: -moz-linear-gradient(top, #66BFBF, #2980b9);
+  background-image: -ms-linear-gradient(top, #66BFBF, #2980b9);
+  background-image: -o-linear-gradient(top, #66BFBF, #2980b9);
+  background-image: linear-gradient(to bottom, #66BFBF, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #11999E;
+  background-image: -webkit-linear-gradient(top, #11999E, #3498db);
+  background-image: -moz-linear-gradient(top, #11999E, #3498db);
+  background-image: -ms-linear-gradient(top, #11999E, #3498db);
+  background-image: -o-linear-gradient(top, #11999E, #3498db);
+  background-image: linear-gradient(to bottom, #11999E, #3498db);
+  text-decoration: none;
+}
+
+.dev {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  background-color: #66BFBF;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.img-code{
+  width: 25%;
+  float: left;
+  margin: 40px 40px 120px 40px;
+}
+.img-Chess{
+  width: 25%;
+  float: right;
+  margin: 40px;
+}
+.copyright{
+  color: #eaf6f6;
+  padding: 20px;
+}
